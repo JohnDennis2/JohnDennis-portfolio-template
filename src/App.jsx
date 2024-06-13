@@ -48,20 +48,16 @@ const jobSummaries = [
     company: 'Self-employed',
     Location: "online",
     Bullets: [
-       "Currently working for sevral companies such as Tester Work, Upwork, Utest as a freelance contractor where I perform funstional testing for clients on many types of websites."
+       "Currently working for several companies such as Tester Work, Upwork, Utest as a freelance contractor where I perform funstional testing for clients on many types of websites."
     ]
   },
   {
     Position: "Full Stack Coding Program",
-    Date: "December of 2023-April 2024",
+    Date: "December of 2023-March 2024",
     company: 'University of Texas at Austin',
     Location: "Austin, Texas",
     Bullets: [
-      "On-site, hands-on consultant at client in Richmond, VA responsible for overall delivery of full software quality assurance lifecycle services as well as performing responsibilities of a QA Lead.",
-      "Participated in all phases of quality assurance operations, including developing the overall test strategy for each given project, providing estimates to leadership, writing and executing test cases (ALM/UFT), managing KPIs, leading defect triage meetings, performing ALM Site Administration, and reporting progress to key stakeholders.",
-      "Developed performance testing scripts with jMeter and executed them with BlazeMeter.",
-      "Functional testing projects completed: data center migration testing for a major online retailer, delivery of automated regression suites in both Selenium and UFT, extensive integration testing of mainframe enterprise resource planning system, and end-2-end testing of several web-based, customer-facing order entry systems.",
-
+     "An intense hands-on education with a focus on the MERN stack. Where students were tasked with creating over 10 real life applications and working together to simulate a future work environment" 
     ]
   },
   {
@@ -70,8 +66,7 @@ const jobSummaries = [
     company: 'Precision Camera',
     Location: "Austin, Texas",
     Bullets: [
-      "Designed and executed tests for native iOS and Android mobile banking applications, web services, and web applications.",
-      "Led efforts to design regression test suite for high profile applications, which included writing automated tests in SilkTest, reviewing code of junior team members, and supervising completion of projects.",
+      
     ]
   },
   {
@@ -156,8 +151,8 @@ function App() {
         />
         <Divider/>
         <Contact
-          email={"contact@softwarequalityassociates.com"}
-          linkedInUrl={"https://www.linkedin.com/josephdefilippo"}
+          email={"johnd555@gmail.com"}
+          linkedInUrl={"https://www.linkedin.com/in/john-dennis-tech/"}
         />
         
       </Box>
