@@ -127,11 +127,11 @@ function App() {
         <Projects
           projects={[
             {
-              imgUrl:"/stu-image.png",
-              projectName:"STU Premium",
-              projectDescription: "Get a job in less than 30 days",
+              imgUrl:"",
+              projectName:"DaTA Translator App",
+              projectDescription: "Translation APP that utilizes API calls",
               linkCta: "Join Now",
-              linkUrl: "https://www.skool.com/testerjobs/about"
+              linkUrl: "https://johndennis2.github.io/translateAPP/"
             },
             {
               imgUrl:"/stu-image.png",
