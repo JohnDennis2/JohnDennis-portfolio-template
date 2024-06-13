@@ -134,18 +134,18 @@ function App() {
               linkUrl: "https://johndennis2.github.io/translateAPP/"
             },
             {
-              imgUrl:"/stu-image.png",
-              projectName:"STU Standard",
-              projectDescription: "Join the STU Community",
+              imgUrl:"",
+              projectName:"Culinary Quest",
+              projectDescription: "A website that lets Users find culinary bucket checklist and create their own.  The prject utilized API calls.  Both front and back end technolgies were used to make a full application. It is still a work in progess",
               linkCta: "Join Now",
-              linkUrl: "https://www.skool.com/stu/about"
+              linkUrl: "https://culinary-quest-ac4ebe5a624a.herokuapp.com/"
             },
             {
-              imgUrl:"/stu-image.png",
-              projectName:"STU Lite",
-              projectDescription: "Join the Free STU Community",
-              linkCta: "Join Now",
-              linkUrl: "https://www.skool.com/testers/about"
+              imgUrl:"",
+              projectName:"Job Search APP",
+              projectDescription: "The idea for this website is a job search app that acts like a dating app. Users are able to like jobs, which are filed under their saved jobs and an email sent to employers that conatians their resume",
+              linkCta: "",
+              linkUrl: "https://job-dating-app-f25db19353ff.herokuapp.com/login"
             }
           ]}
         />
