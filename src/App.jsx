@@ -65,7 +65,13 @@ const jobSummaries = [
     Date: "May 2023-December 2023",
     company: 'Precision Camera',
     Location: "Austin, Texas",
-    Bullets: [
+    Bullets: ["Testing and incorporating new technologies for the company website and in store products. I helped ensure that our quality both online and in the store was kept to the highest standards, while also providing superior customer service",
+
+      "Tested, researched, and implemented the newest technology of over 50 brands for photography and video software" ,
+      "Manually tested functionality of the company site ensuring checkout and payment accuracy" ,
+      "Operated and manually tested the POS (Point of Sale) software, including running daily sales and finance reports", 
+      "Provided superior customer service and helped increase sales 28% over 6 months" ,
+      "Successfully helped over 40 clients achieve proficiency in camera and video software during private consultations",
       
     ]
   },
