@@ -104,9 +104,9 @@ function App() {
       />
       <Box sx={{ bgcolor: 'background.default' }}>
         <Profile
-          name="Joe DeFilippo"
-          role="Founder"
-          githubUrl="https://github.com/joedefilippo"
+          name="John Dennis"
+          role="QA Engineer"
+          githubUrl="https://github.com/JohnDennis2"
         />
         <About
           certifications={[
