@@ -114,9 +114,12 @@ function App() {
             
           ]}
           education={{
-            educationOrganization:"New Jersey Institute of Technology",
-            degreee:"B.A. Information Systems",
-            date:"2008"
+            educationOrganization:"University of Texas at Austin",
+            degreee:"Professional Certificate",
+            date:"2024",
+            educationOrganization:"University of North Texas",
+            degreee:"B.S. in Communications",
+            date:"2005"
           }}
           summary={"Collaborative, flexible, and business-focused Software Quality Specialist with a strong leadership background.  Detail-oriented with the ability to thoroughly analyze systems, identify risks, and formulate testing strategies to satisfy business requirements.  Proven track record of utilizing automation and prioritizing deliverables in order to eliminate test coverage gaps and meet aggressive deadlines while meticulously exercising the application under test."}
         />
