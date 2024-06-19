@@ -110,8 +110,8 @@ function App() {
         />
         <About
           certifications={[
-            'Certified Tester – ISTQB Foundation Level 2017',
-            'Certified Scrum Master (CSM) 2016'
+            'Full Stack Coding Bootcamp – University of Texas at Austin',
+            
           ]}
           education={{
             educationOrganization:"New Jersey Institute of Technology",
