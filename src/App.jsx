@@ -90,15 +90,13 @@ const jobSummaries = [
     ]
   },
   {
-    Position: "Programmer/SDET",
-    Date: "May 2007 – May 2011",
-    company: 'United Parcel Service, Inc.',
-    Location: "Mahwah, NJ",
+    Position: "Consultant",
+    Date: "2015-2022",
+    company: 'Self-employed',
+    Location: "Los Angeles, California",
     Bullets: [
-      "Served as internal consultant to testing teams by assisting them with finding opportunities for test automation and providing testing tool training, technical support, POC automation, and framework setup during their automation efforts.",
-      "Designed and developed Performance Testing scripts and scenarios using LoadRunner",
-      "Developed proprietary testing tools using Visual Basic and C# to enable the manual testing team to capture important system configuration information during test execution.",
-      "Performed manual testing of UPS hardware and software systems used in package distribution centers and aboard delivery trucks.",
+      "Successfully helped over 150 companies achieve website and broadcast video including MTV, FOOD Network, ABC, NBC, ESPN, AMAZON studios, VH1, FOX, SONY, DISCOVERY Channell, VIACOM, and many others"
+"Led entire crews in the technical field of video editing, set operations and production departments"
     ]
   },
 ]
