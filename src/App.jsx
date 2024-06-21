@@ -95,7 +95,7 @@ const jobSummaries = [
     company: 'Self-employed',
     Location: "Los Angeles, California",
     Bullets: [
-      "Successfully helped over 150 companies achieve website and broadcast video including MTV, FOOD Network, ABC, NBC, ESPN, AMAZON studios, VH1, FOX, SONY, DISCOVERY Channell, VIACOM, and many others"
+      "Successfully helped over 150 companies achieve website and broadcast video including MTV, FOOD Network, ABC, NBC, ESPN, AMAZON studios, VH1, FOX, SONY, DISCOVERY Channell, VIACOM, and many others",
 "Led entire crews in the technical field of video editing, set operations and production departments"
     ]
   },
