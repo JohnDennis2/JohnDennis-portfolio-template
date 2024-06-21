@@ -23,7 +23,7 @@ export default function Profile({name, role, githubUrl}) {
             <Typography variant='paragraph'>
               Welcome to my portfolio site! Feel free to look around at my projects and experience.
             </Typography>
-            <Button variant='outlined' href="/resume.pdf">View Resume</Button>
+            <Button variant='outlined' href="/public/JohnDennisResume2024.pdf">View Resume</Button>
             <Button variant='contained' href={githubUrl}>Visit GitHub</Button>
           </div>
           
