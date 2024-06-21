@@ -76,15 +76,17 @@ const jobSummaries = [
     ]
   },
   {
-    Position: "SAP Test Manager & Automation Engineer",
-    Date: "May 2011 – May 2017 ",
-    company: 'BASF Corporation',
-    Location: "Florham Park, NJ",
+    Position: "Manual QA Tester",
+    Date: "March 2022-March 2023",
+    company: 'PaintTube.tv',
+    Location: "Austin, Texas",
     Bullets: [
-      "Developed and executed automated tests to validate BASF’s most critical, end-to-end, global business processes using UFT and Worksoft Certify.",
-      "Coordinated User Acceptance Testing for 15 business units and 12 service functions in North and Central America during quarterly SAP updates and regional IT projects.",
-      "Ensured all test systems and tools were correctly configured and accessible by UAT testers",
-      "Lead training sessions on topics such as test script creation, testing tool usage, and Quality Assurance best practices.",
+      "I conducted testing on the website for live events, employing functionality, UI, smoke, regression, and acceptance testing. I was also responsible for UI web videos client navigation. My responsibilities also encompassed camera operations, editing, broadcast duties, and helping to create individual artist videos",
+
+"Provided critical software support for live streaming events on the website including client login authentication", 
+"Manually tested and executed test cases for the company website using functionality testing, UI testing, regression testing, and user acceptance testing, helping to achieve a 25% faster response time during streaming and live events", 
+"Created walk through videos to instruct Users how to navigate the website during live event broadcasts", 
+"Assisted in filming and editing over 200 videos for the website",
     ]
   },
   {
